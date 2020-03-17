@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Jonathan Doenz | 195210|
-| Asli Yörüsün   | 298828|
-| | |
+| Jonathan Doenz | 195210 |
+| Asli Yörüsün   | 298828 |
+| Aleksandar Hrusanov | 309750 |
 
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-1st-may-5pm) • [Milestone 3](#milestone-3-thursday-28th-may-5pm)
 

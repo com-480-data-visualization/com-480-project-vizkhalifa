@@ -81,31 +81,28 @@ where men are more numerous.
 
 ### Related work
 
-Professor Guy Abel from the School of Sociology and Political
-Science at Shanghai University, has made very significant work on
-studying global migration as well as visualizing it. The two
-following papers from him are based on the datasets that we will
+Professor Guy Abel from the School of Sociology and Political Science at Shanghai University, has made very significant work on
+studying global migration as well as visualizing it. The two following papers from him are based on the datasets that we will
 use.
 
--   Estimates of Global Bilateral Migration Flows by Gender Between
-1960 and 2015, by Guy J. Abel
+-   Estimates of Global Bilateral Migration Flows by Gender Between 1960 and 2015, by Guy J. Abel
 
 -   Visualizations by the above mentioned Prof. Guy Abel:
 
-	-   The global flow of people
-	([link](http://download.gsb.bund.de/BIB/global_flow/))
+	-   The global flow of people ([link](http://download.gsb.bund.de/BIB/global_flow/))
 
-	-   Migration stock as chord diagrams
-	([link](https://guyabel.com/post/migrant-stock-chord-digrams/))
+	-   Migration stock as chord diagrams ([link](https://guyabel.com/post/migrant-stock-chord-digrams/))
 
-	-   Internal migration flows in low and middle income countries
-	([retweet by Prof. Abel](https://twitter.com/WorldPopProject/status/1075051639076216832?s=20))
+-   Researchers from University of Washington and The Nature Conservancy modeled potential habitat for 2954 species using climate change projections and the climatic needs of each species ([Animal Migration](http://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00))
 
--   Researchers from University of Washington and The Nature
-Conservancy modeled potential habitat for 2954 species using
-climate change projections and the climatic needs of each
-species ([Animal
-		Migration](http://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00))
+The other important work done by [1] shows fascinating visualisations about _Mapping internal connectivity through human migration in malaria endemic countries_, which we might consider to add our analysis.
+
+-   Internal migration flows in low and middle income countries ([article by Prof. Abel](https://www.nature.com/articles/sdata201666)). Additionally, related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
+
+
+### References
+
+[1] Sorichetta, A., Bird, T., Ruktanonchai, N. et al. Mapping internal connectivity through human migration in malaria endemic countries. Sci Data 3, 160066 (2016). (https://doi.org/10.1038/sdata.2016.66)
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
@@ -115,4 +112,3 @@ species ([Animal
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 **80% of the final grade**
-

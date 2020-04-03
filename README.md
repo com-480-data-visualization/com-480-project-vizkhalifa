@@ -13,7 +13,7 @@
 ### Dataset
 The main goal of our project is to visualize migration movement. For that purpose, the main dataset we will use is the  [*Migration Flow dataset*](https://guyabel.com/publication/global-migration-estimates-by-gender/)  by Professor Guy Abel from the School of Sociology and Political Science at Shanghai University. As the migration flow is based on data about migration stock, the United Nations' [*Migration Stock dataset*](https://www.un.org/en/development/desa/population/migration/data/index.asp) might be used as an additional resource as well. This will give a global overview of the migration movement with some possible filtering, e.g. by sex and age. In addition, we will explore the feasibility of adding a more specialized visualizations of data based on a focus country or focus group of migrants (e.g. refugees and asylum-seekers).
 
-Whole datasets that we collected can be found [here](https://drive.google.com/drive/folders/1ee1mqCtkSrYlPuUuwxpouCaNwl1V3x9f?usp=sharing).
+Migration Flow, Migration Stock, and Refugee and Asylum-seekers datasets that we collected for further used in our project can be found [here](https://drive.google.com/drive/folders/1ee1mqCtkSrYlPuUuwxpouCaNwl1V3x9f?usp=sharing).
 
 Note: <br/>
 **Migration flows** refer to the number of migrants entering or leaving a given country during a given period of time, usually one calendar year. <br/>

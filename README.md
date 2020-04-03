@@ -17,7 +17,7 @@ Migration Flow, Migration Stock, and Refugee and Asylum-seekers datasets that we
 
 Note: <br/>
 **Migration flows** refer to the number of migrants entering or leaving a given country during a given period of time, usually one calendar year. <br/>
-**International migrant stock** is the number of people born in a country other than that in which they live. It also includes refugees.
+**International migrant stock** is the number of people born in a country other than that in which they live. It also includes refugees. [2]
 
 ### Problematic
 
@@ -114,6 +114,7 @@ The migration movement is just as important as the final raw numbers of migrants
 ### References
 
 [1] Sorichetta, A., Bird, T., Ruktanonchai, N. et al. Mapping internal connectivity through human migration in malaria endemic countries. Sci Data 3, 160066 (2016). (https://doi.org/10.1038/sdata.2016.66)
+[2] Migration Data Portal, Immigration & emigration statistics (https://migrationdataportal.org/themes/international-migration-flows)
 
 ## Milestone 2 (Friday 1st May, 5pm)
 

@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+/Hello.class
+*.sublime-project
+*.DS_Store
+datasets/
+pickles/

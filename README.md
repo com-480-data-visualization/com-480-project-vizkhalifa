@@ -71,9 +71,15 @@ women migrants compared to men, for the sake of brevity we arbitrarily consider 
 The right panel shows the per-capita version.
 ![top_outlows_f_minus_m](../assets/figures/2010_f_minus_m_outflow_15_largest_sum.png "Top 15 countries with more women than men outflowing")
 
+We can see that there is a majority of Syrian _women_ fleeing the country.
+
 Now let's look at the opposite, i.e. the countries with the largest difference between women and men outflows, 
 where men are more numerous.
 ![top_outlows_m_minus_f](../assets/figures/2010_m_minus_f_outflow_15_largest_sum.png "Top 15 countries with more men than women outflowing")
+
+In the normalized plot, we note that Armenia stands well out from other countries with respect to its larger number of men outflowing than women.
+Most of the emigration from Armenia is directed towards Russia and the much larger proportion of men seems to have cultural roots ([articles about this](https://www.univie.ac.at/alumni.ksa/wp-content/uploads/ASSA-SN-2017-01_Migration-and-its-impact-on-Armenia.pdf))
+
 
 ### Related work
 
@@ -102,7 +108,7 @@ The other important work done by [1] shows fascinating visualisations about _Map
 
 #### Why is your approach original?
 We were unable to find visualizations showing the migration flows directly on a world map and at the granularity of single countries.
-The migrantion movement is just as important as the final raw numbers of migrants in a given country. We want to provide a more global picture of migration movement as well as to allow to easily compare the magnitude of migration flow between any countries in one place.
+The migration movement is just as important as the final raw numbers of migrants in a given country. We want to provide a more global picture of migration movement as well as to allow to easily compare the magnitude of migration flow between any countries in one place.
 
 
 ### References

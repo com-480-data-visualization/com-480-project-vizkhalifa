@@ -75,7 +75,7 @@ We then investigated what were the flows with largest differences between women 
 In the following figures, you can see the countries with the largest number of 
 women migrants compared to men, for the sake of brevity we arbitrarily consider only outflows here.
 The right panel shows the per-capita version.
-![top_outlows_f_minus_m](../assets/figures/2010_f_minus_m_inflow_15_largest_sum.png "Top 15 countries with more women than men outflowing")
+![top_outlows_f_minus_m](../assets/figures/2010_f_minus_m_outflow_15_largest_sum.png "Top 15 countries with more women than men outflowing")
 
 Now let's look at the opposite, i.e. the countries with the largest difference between women and men outflows, 
 where men are more numerous.
@@ -83,23 +83,27 @@ where men are more numerous.
 
 ### Related work
 
-Professor Guy Abel from the School of Sociology and Political Science at Shanghai University, has made very significant work on
+The above mentioned Professor Guy Abel has made very significant work in
 studying global migration as well as visualizing it. The two following papers from him are based on the datasets that we will
 use.
 
--   Estimates of Global Bilateral Migration Flows by Gender Between 1960 and 2015, by Guy J. Abel
+-   [Estimates of Global Bilateral Migration Flows by Gender Between 1960 and 2015, by Guy J. Abel](https://www.oeaw.ac.at/fileadmin/subsites/Institute/VID/PDF/Publications/Working_Papers/WP2016_02.pdf)
 
--   Visualizations by the above mentioned Prof. Guy Abel:
+- [Bilateral international migration flow estimates for 200 countries, by Guy Abel and Joel Cohen](https://www.nature.com/articles/s41597-019-0089-3)
 
-	-   The global flow of people ([link](http://download.gsb.bund.de/BIB/global_flow/))
+Visualizations by Prof. Guy Abel:
 
-	-   Migration stock as chord diagrams ([link](https://guyabel.com/post/migrant-stock-chord-digrams/))
+-   [The global flow of people](http://download.gsb.bund.de/BIB/global_flow/)
 
--   Researchers from University of Washington and The Nature Conservancy modeled potential habitat for 2954 species using climate change projections and the climatic needs of each species ([Animal Migration](http://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00))
+-   [Migration stock as chord diagrams](https://guyabel.com/post/migrant-stock-chord-digrams/)
+
+Researchers from University of Washington and The Nature Conservancy modeled potential habitat for 2954 species using climate change projections and the climatic needs of each species:
+
+- [Animal migration ](http://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00)
 
 The other important work done by [1] shows fascinating visualisations about _Mapping internal connectivity through human migration in malaria endemic countries_, which we might consider to add our analysis.
 
--   Internal migration flows in low and middle income countries ([article by Prof. Abel](https://www.nature.com/articles/sdata201666)). Additionally, related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
+-   [Internal migration flows in low and middle income countries](https://www.nature.com/articles/sdata201666). Additionally, the related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
 
 
 ### References

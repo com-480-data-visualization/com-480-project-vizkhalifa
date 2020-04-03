@@ -21,23 +21,11 @@ Migration Flow, Migration Stock, and Refugee and Asylum-seekers datasets that we
 
 ### Problematic
 
-Debates on migration often appear in the news. They usually focus on a
-singular event or group of people and try to elicit emotional reactions
-from the reader. It is therefore hard to have an objective idea of the
-scale of the global phenomenon outside of this particular instance. Our
-visualization proposes to offer this insight: you can see what is the migration
-flow from any country to any other averaged over 5 years. So the next
-time someone claims that there are too many immigrants from this
-particular country to that particular one, you have a mean to approve or
-disprove the claim. Besides, you can have an overview of what are the
-countries that have the highest (and lowest) numbers of immigrants
-overall and with respect to their total populations.\
-A recent such example is the European refugee crisis. Our attention was
-focused on this particular group of people migrating in the European
-Union from across the Mediterranean Sea or through Southeast Europe.
-While the media often presented this as a local one-off occurrence, the
-reality is way more constant and widespread. While this is a more
-specific example, it still is a big part of global migration.
+Debates on migration often appear in the news. They usually focus on a singular event or group of people and try to elicit emotional reactions from the reader. It is therefore hard to have an objective idea of the scale of the global phenomenon outside of this particular instance. 
+
+Our visualization proposes to offer this insight: you can see what is the migration flow from any country to any other averaged over 5 years. So the next time someone claims that there are too many immigrants from this particular country to that particular one, you have a mean to approve or disprove the claim. Besides, you can have an overview of what are the countries that have the highest (and lowest) numbers of immigrants overall and with respect to their total populations.
+
+A recent such example is the European refugee crisis. Our attention was focused on this particular group of people migrating in the European Union from across the Mediterranean Sea or through Southeast Europe. While the media often presented this as a local one-off occurrence, the reality is way more constant and widespread. While this is a more specific example, it still is a big part of global migration.
 
 ### Exploratory Data Analysis
 

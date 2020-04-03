@@ -56,28 +56,28 @@ We first looked at the countries with the highest overall migrant inflows
 without separating women and men.
 We observed that the USA is the country with the largest inflow of migrants by far
 as can be seen in the figure below.
-![top_inflows](figures/2010_b_inflow_15_largest_sum.png "Top 15 countries in number of inflow migrants")
+![top_inflows](assets/figures/2010_b_inflow_15_largest_sum.png "Top 15 countries in number of inflow migrants")
 
 Looking at the largest migrants' *out*flows, we noticed the vast impact of 
 the civil war undergoing in Syria since 2011.
-![top_outflows](figures/2010_b_outflow_15_largest_sum.png "Top 15 countries in number of outflow migrants")
+![top_outflows](assets/figures/2010_b_outflow_15_largest_sum.png "Top 15 countries in number of outflow migrants")
 
 We then reproduced these analyses but divided the migrant flows by the local population size
 to see the largest migrant flows _per-capita_.
 We noticed the prevalence of Persian Gulf countries such as Oman, Kuwait, Qatar, UAE, Bahrain 
 in the top of the per-capita inflow ranking, 
 which is line with their infamously large foreign migrant workers taskforce.
-![top_inflows_norm](figures/2010_b_inflow_15_largest_sum_norm.png "Top 15 countries in number of inflow migrants normalized")
+![top_inflows_norm](assets/figures/2010_b_inflow_15_largest_sum_norm.png "Top 15 countries in number of inflow migrants normalized")
 
 We then investigated what were the flows with largest differences between women and men.
 In the following figures, you can see the countries with the largest number of 
 women migrants compared to men, for the sake of brevity we arbitrarily consider only outflows here.
 The right panel shows the per-capita version.
-![top_outlows_f_minus_m](figures/2010_f_minus_m_inflow_15_largest_sum.png "Top 15 countries with more women than men outflowing")
+![top_outlows_f_minus_m](assets/figures/2010_f_minus_m_inflow_15_largest_sum.png "Top 15 countries with more women than men outflowing")
 
 Now let's look at the opposite, i.e. the countries with the largest difference between women and men outflows, 
 where men are more numerous.
-![top_outlows_m_minus_f](figures/2010_m_minus_f_outflow_15_largest_sum.png "Top 15 countries with more men than women outflowing")
+![top_outlows_m_minus_f](assets/figures/2010_m_minus_f_outflow_15_largest_sum.png "Top 15 countries with more men than women outflowing")
 
 ### Related work
 

@@ -15,9 +15,9 @@ The main goal of our project is to visualize migration movement. For that purpos
 
 Migration Flow, Migration Stock, and Refugee and Asylum-seekers datasets that we collected for further use in our project can be found [here](https://drive.google.com/drive/folders/1ee1mqCtkSrYlPuUuwxpouCaNwl1V3x9f?usp=sharing).
 
-Note: <br/>
+> Note: [2] <br/>
 **Migration flows** refer to the number of migrants entering or leaving a given country during a given period of time, usually one calendar year. <br/>
-**International migrant stock** is the number of people born in a country other than that in which they live. It also includes refugees. [2]
+**International migrant stock** is the number of people born in a country other than that in which they live. It also includes refugees.
 
 ### Problematic
 

@@ -77,8 +77,8 @@ Now let's look at the opposite, i.e. the countries with the largest difference b
 where men are more numerous.
 ![top_outlows_m_minus_f](../assets/figures/2010_m_minus_f_outflow_15_largest_sum.png "Top 15 countries with more men than women outflowing")
 
-In the normalized plot, we note that Armenia stands well out from other countries with respect to its larger number of men outflowing than women.
-Most of the emigration from Armenia is directed towards Russia and the much larger proportion of men seems to have cultural roots ([articles about this](https://www.univie.ac.at/alumni.ksa/wp-content/uploads/ASSA-SN-2017-01_Migration-and-its-impact-on-Armenia.pdf))
+In the normalized plot, we note that Armenia stands well out from other countries with respect to its larger number of men outflowing compared to women.
+Most of the emigration from Armenia is directed towards Russia and the much larger proportion of men seems to have cultural roots ([articles about this](https://www.univie.ac.at/alumni.ksa/wp-content/uploads/ASSA-SN-2017-01_Migration-and-its-impact-on-Armenia.pdf)).
 
 
 ### Related work

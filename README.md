@@ -94,14 +94,14 @@ The other important work done by [1] shows fascinating visualisations about _Map
 
 -   [Internal migration flows in low and middle income countries](https://www.nature.com/articles/sdata201666). Additionally, the related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
 
-#### Why is your approach original?
+#### Why is our approach original?
 We were unable to find visualizations showing the migration flows directly on a world map and at the granularity of single countries.
 The migration movement is just as important as the final raw numbers of migrants in a given country. We want to provide a more global picture of migration movement as well as to allow to easily compare the magnitude of migration flow between any countries in one place.
 
 
 ### References
 
-[1] Sorichetta, A., Bird, T., Ruktanonchai, N. et al. Mapping internal connectivity through human migration in malaria endemic countries. Sci Data 3, 160066 (2016). (https://doi.org/10.1038/sdata.2016.66)
+[1] Sorichetta, A., Bird, T., Ruktanonchai, N. et al. Mapping internal connectivity through human migration in malaria endemic countries. Sci Data 3, 160066 (2016). (https://doi.org/10.1038/sdata.2016.66) <br/>
 [2] Migration Data Portal, Immigration & emigration statistics (https://migrationdataportal.org/themes/international-migration-flows)
 
 ## Milestone 2 (Friday 1st May, 5pm)

@@ -11,19 +11,13 @@
 ## Milestone 1 (Friday 3rd April, 5pm)
 
 ### Dataset
-
-We will focus on two datasets for our main visualization - [*Migration
-Flow dataset*](https://guyabel.com/publication/global-migration-estimates-by-gender/) 
-by Professor Guy Abel from the School of Sociology and
-Political Science at Shanghai University and the United Nations'
-[*Migration Stock dataset*](https://www.un.org/en/development/desa/population/migration/data/index.asp). 
-This will give a global overview of migration
-with some possible filtering, e.g. by sex and age. In addition, we will
-explore the feasibility of adding a more specific visualization of data
-based on a focus country or focus group of migrants (e.g. refugees and
-asylum-seekers). 
+The main goal of our project is to visualize migration movement. For that purpose, the main dataset we will use is the  [*Migration Flow dataset*](https://guyabel.com/publication/global-migration-estimates-by-gender/)  by Professor Guy Abel from the School of Sociology and Political Science at Shanghai University. As the migration flow is based on data about migration stock, the United Nations' [*Migration Stock dataset*](https://www.un.org/en/development/desa/population/migration/data/index.asp) might be used as an additional resource as well. This will give a global overview of migration with some possible filtering, e.g. by sex and age. In addition, we will explore the feasibility of adding a more specialized visualization of data based on a focus country or focus group of migrants (e.g. refugees and asylum-seekers).
 
 Whole datasets that we collected can be found [here](https://drive.google.com/drive/folders/1ee1mqCtkSrYlPuUuwxpouCaNwl1V3x9f?usp=sharing).
+
+Note: <br/>
+**Migration flows** refer to the number of migrants entering or leaving a given country during a given period of time, usually one calendar year. <br/>
+**International migrant stock** is the number of people born in a country other than that in which they live. It also includes refugees.
 
 ### Problematic
 
@@ -83,6 +77,7 @@ where men are more numerous.
 
 ### Related work
 
+#### What others have already done with the data or similar?
 The above mentioned Professor Guy Abel has made very significant work in
 studying global migration as well as visualizing it. The two following papers from him are based on the datasets that we will
 use.
@@ -104,6 +99,10 @@ Researchers from University of Washington and The Nature Conservancy modeled pot
 The other important work done by [1] shows fascinating visualisations about _Mapping internal connectivity through human migration in malaria endemic countries_, which we might consider to add our analysis.
 
 -   [Internal migration flows in low and middle income countries](https://www.nature.com/articles/sdata201666). Additionally, the related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
+
+#### Why is your approach original?
+We were unable to find visualizations showing the migration flows directly on a world map and at the granularity of single countries.
+The migrantion movement is just as important as the final raw numbers of migrants in a given country. We want to provide a more global picture of migration movement as well as to allow to easily compare the magnitude of migration flow between any countries in one place.
 
 
 ### References

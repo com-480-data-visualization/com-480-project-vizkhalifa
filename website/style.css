@@ -1,0 +1,29 @@
+.country {
+	stroke: white;
+	stroke-opacity: 0.25;
+	stroke-width: 1.0;
+}
+
+.country2 {
+	fill: #cccccc;
+	stroke: #333333;
+	stroke-width: 0.5;
+}
+
+.hovered {
+	fill: gray;
+}
+
+.hovered2 {
+	fill: black;
+	/* stroke: white; */
+	/* stroke-width: 2; */
+}
+
+/* once we chose a definitive style for the map, we should remove */ 
+/* .attr("background") */
+/* of the svg variable in the .js file and set it here: */
+/* svg { */
+/* 	background: white; */
+/* 	/1* background: #efefef; *1/ */
+/* } */

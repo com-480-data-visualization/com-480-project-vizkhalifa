@@ -1,3 +1,15 @@
+/* define some recurrent colors */
+:root {
+	--hover-select-color: #393a1e96;
+}
+
+/* define style of ids */
+#world-map {
+	background: #8a8a8a;
+	/* background: white; */
+}
+
+/* define style of classes */
 .country {
 	stroke: white;
 	stroke-opacity: 0.25;
@@ -11,13 +23,38 @@
 }
 
 .hovered {
-	fill: gray;
+	fill: var(--hover-select-color);
+	/* fill: #393a1e96; */
+	/* fill: white; */
+	/* opacity: 0.5; */
 }
 
 .hovered2 {
-	fill: black;
+	fill: var(--hover-select-color2);
+	/* fill: black; */
 	/* stroke: white; */
 	/* stroke-width: 2; */
+}
+
+.selected {
+	fill: var(--hover-select-color);
+	opacity: 0.5;
+	/* fill: #393a1e96; */
+}
+
+.selected2 {
+	fill: var(--hover-select-color2);
+	opacity: 0.5;
+	/* fill: #393a1e96; */
+}
+
+.selected-country-circle {
+	fill: blue;
+}
+
+.outflow-country {
+	fill: red;
+	opacity: 0.5;
 }
 
 /* once we chose a definitive style for the map, we should remove */ 

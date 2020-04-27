@@ -16,12 +16,6 @@
 	stroke-width: 1.0;
 }
 
-.country2 {
-	fill: #cccccc;
-	stroke: #333333;
-	stroke-width: 0.5;
-}
-
 .hovered {
 	fill: var(--hover-select-color);
 	/* fill: #393a1e96; */
@@ -29,21 +23,8 @@
 	/* opacity: 0.5; */
 }
 
-.hovered2 {
-	fill: var(--hover-select-color2);
-	/* fill: black; */
-	/* stroke: white; */
-	/* stroke-width: 2; */
-}
-
 .selected {
 	fill: var(--hover-select-color);
-	opacity: 0.5;
-	/* fill: #393a1e96; */
-}
-
-.selected2 {
-	fill: var(--hover-select-color2);
 	opacity: 0.5;
 	/* fill: #393a1e96; */
 }
@@ -57,10 +38,7 @@
 	opacity: 0.5;
 }
 
-/* once we chose a definitive style for the map, we should remove */ 
-/* .attr("background") */
-/* of the svg variable in the .js file and set it here: */
-/* svg { */
-/* 	background: white; */
-/* 	/1* background: #efefef; *1/ */
-/* } */
+.inflow-country {
+	fill: green;
+	opacity: 0.5;
+}

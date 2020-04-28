@@ -39,8 +39,8 @@ class WorldMapPlot {
 		d3.queue()
 			.defer(d3.json, "https://unpkg.com/world-atlas@1.1.4/world/110m.json")
 		// .defer(d3.json, "https://raw.githubusercontent.com/andybarefoot/andybarefoot-www/master/maps/mapdata/custom50.json")
-			.defer(d3.json, "./data/country_codes_and_names.json")
-			.defer(d3.csv, "./data/migflows_gender_separated_1990_2015_filtered_without0flows.csv")
+			.defer(d3.json, "/data/country_codes_and_names.json")
+			.defer(d3.csv, "/data/migflows_gender_separated_1990_2015_filtered_without0flows.csv")
 		// .defer(d3.csv, "./data/migflows_gender_separated_1990_2015_filtered.csv")
 			.await(ready);
 

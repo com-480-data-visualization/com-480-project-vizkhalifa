@@ -1,5 +1,0 @@
----
-layout: world_map
-title: World Map
-permalink: /world_map/
----

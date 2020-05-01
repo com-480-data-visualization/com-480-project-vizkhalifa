@@ -106,8 +106,15 @@ The migration movement is just as important as the final raw numbers of migrants
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
-**10% of the final grade**
+See our website [here](https://aleksandarhr.github.io/LearnMigration/)!
 
+Our pdf report can be found [here](milestone2_report.pdf).
+
+### Credits for inspiration
+
+Our current website's layout is greatly inspired fom this [website](https://infopaul.github.io/).
+
+Our world map visualization is inspired from this [work](https://joymanguljensen.github.io/dataVIz-human-migration/).
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 

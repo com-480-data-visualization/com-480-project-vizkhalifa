@@ -94,6 +94,11 @@ The other important work done by [1] shows fascinating visualisations about _Map
 
 -   [Internal migration flows in low and middle income countries](https://www.nature.com/articles/sdata201666). Additionally, the related dataset can be found [here](https://www.worldpop.org/project/categories?id=11).
 
+We particularly liked the layout of this [website](https://infopaul.github.io/) and used it as inspiration material for our initial website layout.
+
+We recently found this [website](https://joymanguljensen.github.io/dataVIz-human-migration/) that represents migration flows on the global level. We used it as inspiration material for our first visualization map.
+
+
 #### Why is our approach original?
 We were unable to find visualizations showing the migration flows directly on a world map and at the granularity of single countries.
 The migration movement is just as important as the final raw numbers of migrants in a given country. We want to provide a more global picture of migration movement as well as to allow to easily compare the magnitude of migration flow between any countries in one place.
@@ -109,12 +114,6 @@ The migration movement is just as important as the final raw numbers of migrants
 See our website [here](https://aleksandarhr.github.io/LearnMigration/)!
 
 Our pdf report can be found [here](milestone2_report.pdf).
-
-### Credits for inspiration
-
-Our current website's layout is greatly inspired fom this [website](https://infopaul.github.io/).
-
-Our world map visualization is inspired from this [work](https://joymanguljensen.github.io/dataVIz-human-migration/).
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 

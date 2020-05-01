@@ -111,7 +111,7 @@ The migration movement is just as important as the final raw numbers of migrants
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
-See our website [here](https://aleksandarhr.github.io/LearnMigration/)!
+See our website [here](https://aleksandarhr.github.io/LearnMigration/) and our code [here](https://github.com/AleksandarHr/LearnMigration)!
 
 Our pdf report can be found [here](milestone2_report.pdf).
 

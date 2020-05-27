@@ -231,62 +231,62 @@ Canada,124,More Developed Regions,Y
 Greenland,304,More Developed Regions,Y
 Saint Pierre and Miquelon,666,More Developed Regions,Y
 United States of America,840,More Developed Regions,Y
-Burundi,108,Less Developed Regions,Y
-Comoros,174,Less Developed Regions,Y
-Djibouti,262,Less Developed Regions,Y
-Eritrea,232,Less Developed Regions,Y
-Ethiopia,231,Less Developed Regions,Y
+Burundi,108,Less Developed Regions,N
+Comoros,174,Less Developed Regions,N
+Djibouti,262,Less Developed Regions,N
+Eritrea,232,Less Developed Regions,N
+Ethiopia,231,Less Developed Regions,N
 Kenya,404,Less Developed Regions,Y
-Madagascar,450,Less Developed Regions,Y
-Malawi,454,Less Developed Regions,Y
+Madagascar,450,Less Developed Regions,N
+Malawi,454,Less Developed Regions,N
 Mauritius,480,Less Developed Regions,Y
 Mayotte,175,Less Developed Regions,Y
-Mozambique,508,Less Developed Regions,Y
+Mozambique,508,Less Developed Regions,N
 Réunion,638,Less Developed Regions,Y
-Rwanda,646,Less Developed Regions,Y
+Rwanda,646,Less Developed Regions,N
 Seychelles,690,Less Developed Regions,Y
-Somalia,706,Less Developed Regions,Y
-South Sudan,728,Less Developed Regions,Y
-Uganda,800,Less Developed Regions,Y
-United Republic of Tanzania,834,Less Developed Regions,Y
-Zambia,894,Less Developed Regions,Y
+Somalia,706,Less Developed Regions,N
+South Sudan,728,Less Developed Regions,N
+Uganda,800,Less Developed Regions,N
+United Republic of Tanzania,834,Less Developed Regions,N
+Zambia,894,Less Developed Regions,N
 Zimbabwe,716,Less Developed Regions,Y
-Angola,24,Less Developed Regions,Y
+Angola,24,Less Developed Regions,N
 Cameroon,120,Less Developed Regions,Y
-Central African Republic,140,Less Developed Regions,Y
-Chad,148,Less Developed Regions,Y
+Central African Republic,140,Less Developed Regions,N
+Chad,148,Less Developed Regions,N
 Congo,178,Less Developed Regions,Y
-Democratic Republic of the Congo,180,Less Developed Regions,Y
+Democratic Republic of the Congo,180,Less Developed Regions,N
 Equatorial Guinea,226,Less Developed Regions,Y
 Gabon,266,Less Developed Regions,Y
-Sao Tome and Principe,678,Less Developed Regions,Y
+Sao Tome and Principe,678,Less Developed Regions,N
 Botswana,72,Less Developed Regions,Y
 Eswatini,748,Less Developed Regions,Y
-Lesotho,426,Less Developed Regions,Y
+Lesotho,426,Less Developed Regions,N
 Namibia,516,Less Developed Regions,Y
 South Africa,710,Less Developed Regions,Y
-Benin,204,Less Developed Regions,Y
-Burkina Faso,854,Less Developed Regions,Y
+Benin,204,Less Developed Regions,N
+Burkina Faso,854,Less Developed Regions,N
 Cabo Verde,132,Less Developed Regions,Y
 Côte d'Ivoire,384,Less Developed Regions,Y
-Gambia,270,Less Developed Regions,Y
+Gambia,270,Less Developed Regions,N
 Ghana,288,Less Developed Regions,Y
-Guinea,324,Less Developed Regions,Y
-Guinea-Bissau,624,Less Developed Regions,Y
-Liberia,430,Less Developed Regions,Y
-Mali,466,Less Developed Regions,Y
-Mauritania,478,Less Developed Regions,Y
-Niger,562,Less Developed Regions,Y
+Guinea,324,Less Developed Regions,N
+Guinea-Bissau,624,Less Developed Regions,N
+Liberia,430,Less Developed Regions,N
+Mali,466,Less Developed Regions,N
+Mauritania,478,Less Developed Regions,N
+Niger,562,Less Developed Regions,N
 Nigeria,566,Less Developed Regions,Y
 Saint Helena,654,Less Developed Regions,Y
-Senegal,686,Less Developed Regions,Y
-Sierra Leone,694,Less Developed Regions,Y
-Togo,768,Less Developed Regions,Y
+Senegal,686,Less Developed Regions,N
+Sierra Leone,694,Less Developed Regions,N
+Togo,768,Less Developed Regions,N
 Algeria,12,Less Developed Regions,Y
 Egypt,818,Less Developed Regions,Y
 Libya,434,Less Developed Regions,Y
 Morocco,504,Less Developed Regions,Y
-Sudan,729,Less Developed Regions,Y
+Sudan,729,Less Developed Regions,N
 Tunisia,788,Less Developed Regions,Y
 Western Sahara,732,Less Developed Regions,Y
 Armenia,51,Less Developed Regions,Y
@@ -306,19 +306,19 @@ State of Palestine,275,Less Developed Regions,Y
 Syrian Arab Republic,760,Less Developed Regions,Y
 Turkey,792,Less Developed Regions,Y
 United Arab Emirates,784,Less Developed Regions,Y
-Yemen,887,Less Developed Regions,Y
+Yemen,887,Less Developed Regions,N
 Kazakhstan,398,Less Developed Regions,Y
 Kyrgyzstan,417,Less Developed Regions,Y
 Tajikistan,762,Less Developed Regions,Y
 Turkmenistan,795,Less Developed Regions,Y
 Uzbekistan,860,Less Developed Regions,Y
-Afghanistan,4,Less Developed Regions,Y
-Bangladesh,50,Less Developed Regions,Y
-Bhutan,64,Less Developed Regions,Y
+Afghanistan,4,Less Developed Regions,N
+Bangladesh,50,Less Developed Regions,N
+Bhutan,64,Less Developed Regions,N
 India,356,Less Developed Regions,Y
 Iran (Islamic Republic of),364,Less Developed Regions,Y
 Maldives,462,Less Developed Regions,Y
-Nepal,524,Less Developed Regions,Y
+Nepal,524,Less Developed Regions,N
 Pakistan,586,Less Developed Regions,Y
 Sri Lanka,144,Less Developed Regions,Y
 China,156,Less Developed Regions,Y
@@ -329,15 +329,15 @@ Japan,392,Less Developed Regions,N
 Mongolia,496,Less Developed Regions,Y
 Republic of Korea,410,Less Developed Regions,Y
 Brunei Darussalam,96,Less Developed Regions,Y
-Cambodia,116,Less Developed Regions,Y
+Cambodia,116,Less Developed Regions,N
 Indonesia,360,Less Developed Regions,Y
-Lao People's Democratic Republic,418,Less Developed Regions,Y
+Lao People's Democratic Republic,418,Less Developed Regions,N
 Malaysia,458,Less Developed Regions,Y
-Myanmar,104,Less Developed Regions,Y
+Myanmar,104,Less Developed Regions,N
 Philippines,608,Less Developed Regions,Y
 Singapore,702,Less Developed Regions,Y
 Thailand,764,Less Developed Regions,Y
-Timor-Leste,626,Less Developed Regions,Y
+Timor-Leste,626,Less Developed Regions,N
 Viet Nam,704,Less Developed Regions,Y
 Anguilla,660,Less Developed Regions,Y
 Antigua and Barbuda,28,Less Developed Regions,Y
@@ -353,7 +353,7 @@ Dominica,212,Less Developed Regions,Y
 Dominican Republic,214,Less Developed Regions,Y
 Grenada,308,Less Developed Regions,Y
 Guadeloupe,312,Less Developed Regions,Y
-Haiti,332,Less Developed Regions,Y
+Haiti,332,Less Developed Regions,N
 Jamaica,388,Less Developed Regions,Y
 Martinique,474,Less Developed Regions,Y
 Montserrat,500,Less Developed Regions,Y
@@ -392,10 +392,10 @@ New Zealand,554,Less Developed Regions,N
 Fiji,242,Less Developed Regions,Y
 New Caledonia,540,Less Developed Regions,Y
 Papua New Guinea,598,Less Developed Regions,Y
-Solomon Islands,90,Less Developed Regions,Y
-Vanuatu,548,Less Developed Regions,Y
+Solomon Islands,90,Less Developed Regions,N
+Vanuatu,548,Less Developed Regions,N
 Guam,316,Less Developed Regions,Y
-Kiribati,296,Less Developed Regions,Y
+Kiribati,296,Less Developed Regions,N
 Marshall Islands,584,Less Developed Regions,Y
 Micronesia (Fed. States of),583,Less Developed Regions,Y
 Nauru,520,Less Developed Regions,Y
@@ -408,7 +408,7 @@ Niue,570,Less Developed Regions,Y
 Samoa,882,Less Developed Regions,Y
 Tokelau,772,Less Developed Regions,Y
 Tonga,776,Less Developed Regions,Y
-Tuvalu,798,Less Developed Regions,Y
+Tuvalu,798,Less Developed Regions,N
 Wallis and Futuna Islands,876,Less Developed Regions,Y
 Belarus,112,Less Developed Regions,N
 Bulgaria,100,Less Developed Regions,N
@@ -929,13 +929,13 @@ Saint Pierre and Miquelon,666,High-income Countries,N
 United States of America,840,High-income Countries,Y
 Burundi,108,Middle-income Countries,N
 Comoros,174,Middle-income Countries,N
-Djibouti,262,Middle-income Countries,Y
+Djibouti,262,Middle-income Countries,N
 Eritrea,232,Middle-income Countries,N
 Ethiopia,231,Middle-income Countries,N
-Kenya,404,Middle-income Countries,Y
+Kenya,404,Middle-income Countries,N
 Madagascar,450,Middle-income Countries,N
 Malawi,454,Middle-income Countries,N
-Mauritius,480,Middle-income Countries,Y
+Mauritius,480,Middle-income Countries,N
 Mayotte,175,Middle-income Countries,N
 Mozambique,508,Middle-income Countries,N
 Réunion,638,Middle-income Countries,N
@@ -945,96 +945,96 @@ Somalia,706,Middle-income Countries,N
 South Sudan,728,Middle-income Countries,N
 Uganda,800,Middle-income Countries,N
 United Republic of Tanzania,834,Middle-income Countries,N
-Zambia,894,Middle-income Countries,Y
+Zambia,894,Middle-income Countries,N
 Zimbabwe,716,Middle-income Countries,N
-Angola,24,Middle-income Countries,Y
-Cameroon,120,Middle-income Countries,Y
+Angola,24,Middle-income Countries,N
+Cameroon,120,Middle-income Countries,N
 Central African Republic,140,Middle-income Countries,N
 Chad,148,Middle-income Countries,N
-Congo,178,Middle-income Countries,Y
+Congo,178,Middle-income Countries,N
 Democratic Republic of the Congo,180,Middle-income Countries,N
-Equatorial Guinea,226,Middle-income Countries,Y
-Gabon,266,Middle-income Countries,Y
-Sao Tome and Principe,678,Middle-income Countries,Y
-Botswana,72,Middle-income Countries,Y
-Eswatini,748,Middle-income Countries,Y
-Lesotho,426,Middle-income Countries,Y
-Namibia,516,Middle-income Countries,Y
-South Africa,710,Middle-income Countries,Y
+Equatorial Guinea,226,Middle-income Countries,N
+Gabon,266,Middle-income Countries,N
+Sao Tome and Principe,678,Middle-income Countries,N
+Botswana,72,Middle-income Countries,N
+Eswatini,748,Middle-income Countries,N
+Lesotho,426,Middle-income Countries,N
+Namibia,516,Middle-income Countries,N
+South Africa,710,Middle-income Countries,N
 Benin,204,Middle-income Countries,N
 Burkina Faso,854,Middle-income Countries,N
-Cabo Verde,132,Middle-income Countries,Y
-Côte d'Ivoire,384,Middle-income Countries,Y
+Cabo Verde,132,Middle-income Countries,N
+Côte d'Ivoire,384,Middle-income Countries,N
 Gambia,270,Middle-income Countries,N
-Ghana,288,Middle-income Countries,Y
+Ghana,288,Middle-income Countries,N
 Guinea,324,Middle-income Countries,N
 Guinea-Bissau,624,Middle-income Countries,N
 Liberia,430,Middle-income Countries,N
 Mali,466,Middle-income Countries,N
-Mauritania,478,Middle-income Countries,Y
+Mauritania,478,Middle-income Countries,N
 Niger,562,Middle-income Countries,N
-Nigeria,566,Middle-income Countries,Y
+Nigeria,566,Middle-income Countries,N
 Saint Helena,654,Middle-income Countries,N
 Senegal,686,Middle-income Countries,N
 Sierra Leone,694,Middle-income Countries,N
 Togo,768,Middle-income Countries,N
-Algeria,12,Middle-income Countries,Y
-Egypt,818,Middle-income Countries,Y
-Libya,434,Middle-income Countries,Y
-Morocco,504,Middle-income Countries,Y
-Sudan,729,Middle-income Countries,Y
-Tunisia,788,Middle-income Countries,Y
+Algeria,12,Middle-income Countries,N
+Egypt,818,Middle-income Countries,N
+Libya,434,Middle-income Countries,N
+Morocco,504,Middle-income Countries,N
+Sudan,729,Middle-income Countries,N
+Tunisia,788,Middle-income Countries,N
 Western Sahara,732,Middle-income Countries,N
-Armenia,51,Middle-income Countries,Y
-Azerbaijan,31,Middle-income Countries,Y
+Armenia,51,Middle-income Countries,N
+Azerbaijan,31,Middle-income Countries,N
 Bahrain,48,Middle-income Countries,N
 Cyprus,196,Middle-income Countries,N
-Georgia,268,Middle-income Countries,Y
-Iraq,368,Middle-income Countries,Y
+Georgia,268,Middle-income Countries,N
+Iraq,368,Middle-income Countries,N
 Israel,376,Middle-income Countries,N
-Jordan,400,Middle-income Countries,Y
+Jordan,400,Middle-income Countries,N
 Kuwait,414,Middle-income Countries,N
-Lebanon,422,Middle-income Countries,Y
+Lebanon,422,Middle-income Countries,N
 Oman,512,Middle-income Countries,N
 Qatar,634,Middle-income Countries,N
 Saudi Arabia,682,Middle-income Countries,N
-State of Palestine,275,Middle-income Countries,Y
+State of Palestine,275,Middle-income Countries,N
 Syrian Arab Republic,760,Middle-income Countries,N
-Turkey,792,Middle-income Countries,Y
+Turkey,792,Middle-income Countries,N
 United Arab Emirates,784,Middle-income Countries,N
 Yemen,887,Middle-income Countries,N
-Kazakhstan,398,Middle-income Countries,Y
-Kyrgyzstan,417,Middle-income Countries,Y
+Kazakhstan,398,Middle-income Countries,N
+Kyrgyzstan,417,Middle-income Countries,N
 Tajikistan,762,Middle-income Countries,N
-Turkmenistan,795,Middle-income Countries,Y
-Uzbekistan,860,Middle-income Countries,Y
+Turkmenistan,795,Middle-income Countries,N
+Uzbekistan,860,Middle-income Countries,N
 Afghanistan,4,Middle-income Countries,N
-Bangladesh,50,Middle-income Countries,Y
-Bhutan,64,Middle-income Countries,Y
-India,356,Middle-income Countries,Y
-Iran (Islamic Republic of),364,Middle-income Countries,Y
-Maldives,462,Middle-income Countries,Y
+Bangladesh,50,Middle-income Countries,N
+Bhutan,64,Middle-income Countries,N
+India,356,Middle-income Countries,N
+Iran (Islamic Republic of),364,Middle-income Countries,N
+Maldives,462,Middle-income Countries,N
 Nepal,524,Middle-income Countries,N
-Pakistan,586,Middle-income Countries,Y
-Sri Lanka,144,Middle-income Countries,Y
-China,156,Middle-income Countries,Y
+Pakistan,586,Middle-income Countries,N
+Sri Lanka,144,Middle-income Countries,N
+China,156,Middle-income Countries,N
 "China, Hong Kong SAR",344,Middle-income Countries,N
 "China, Macao SAR",446,Middle-income Countries,N
 Dem. People's Republic of Korea,408,Middle-income Countries,N
 Japan,392,Middle-income Countries,N
-Mongolia,496,Middle-income Countries,Y
+Mongolia,496,Middle-income Countries,N
 Republic of Korea,410,Middle-income Countries,N
 Brunei Darussalam,96,Middle-income Countries,N
-Cambodia,116,Middle-income Countries,Y
-Indonesia,360,Middle-income Countries,Y
-Lao People's Democratic Republic,418,Middle-income Countries,Y
-Malaysia,458,Middle-income Countries,Y
-Myanmar,104,Middle-income Countries,Y
-Philippines,608,Middle-income Countries,Y
+Cambodia,116,Middle-income Countries,N
+Indonesia,360,Middle-income Countries,N
+Lao People's Democratic Republic,418,Middle-income Countries,N
+Malaysia,458,Middle-income Countries,N
+Myanmar,104,Middle-income Countries,N
+Philippines,608,Middle-income Countries,N
 Singapore,702,Middle-income Countries,N
-Thailand,764,Middle-income Countries,Y
-Timor-Leste,626,Middle-income Countries,Y
-Viet Nam,704,Middle-income Countries,Y
+Thailand,764,Middle-income Countries,N
+Timor-Leste,626,Middle-income Countries,N
+Viet Nam,704,Middle-income Countries,N
 Anguilla,660,Middle-income Countries,N
 Antigua and Barbuda,28,Middle-income Countries,N
 Aruba,533,Middle-income Countries,N
@@ -1043,79 +1043,79 @@ Barbados,52,Middle-income Countries,N
 British Virgin Islands,92,Middle-income Countries,N
 "Bonaire, Sint Eustatius and Saba",535,Middle-income Countries,N
 Cayman Islands,136,Middle-income Countries,N
-Cuba,192,Middle-income Countries,Y
+Cuba,192,Middle-income Countries,N
 Curaçao,531,Middle-income Countries,N
-Dominica,212,Middle-income Countries,Y
-Dominican Republic,214,Middle-income Countries,Y
-Grenada,308,Middle-income Countries,Y
+Dominica,212,Middle-income Countries,N
+Dominican Republic,214,Middle-income Countries,N
+Grenada,308,Middle-income Countries,N
 Guadeloupe,312,Middle-income Countries,N
 Haiti,332,Middle-income Countries,N
-Jamaica,388,Middle-income Countries,Y
+Jamaica,388,Middle-income Countries,N
 Martinique,474,Middle-income Countries,N
 Montserrat,500,Middle-income Countries,N
 Puerto Rico,630,Middle-income Countries,N
 Saint Kitts and Nevis,659,Middle-income Countries,N
-Saint Lucia,662,Middle-income Countries,Y
-Saint Vincent and the Grenadines,670,Middle-income Countries,Y
+Saint Lucia,662,Middle-income Countries,N
+Saint Vincent and the Grenadines,670,Middle-income Countries,N
 Sint Maarten (Dutch part),534,Middle-income Countries,N
 Trinidad and Tobago,780,Middle-income Countries,N
 Turks and Caicos Islands,796,Middle-income Countries,N
 United States Virgin Islands,850,Middle-income Countries,N
-Belize,84,Middle-income Countries,Y
-Costa Rica,188,Middle-income Countries,Y
-El Salvador,222,Middle-income Countries,Y
-Guatemala,320,Middle-income Countries,Y
-Honduras,340,Middle-income Countries,Y
-Mexico,484,Middle-income Countries,Y
-Nicaragua,558,Middle-income Countries,Y
+Belize,84,Middle-income Countries,N
+Costa Rica,188,Middle-income Countries,N
+El Salvador,222,Middle-income Countries,N
+Guatemala,320,Middle-income Countries,N
+Honduras,340,Middle-income Countries,N
+Mexico,484,Middle-income Countries,N
+Nicaragua,558,Middle-income Countries,N
 Panama,591,Middle-income Countries,N
 Argentina,32,Middle-income Countries,N
-Bolivia (Plurinational State of),68,Middle-income Countries,Y
-Brazil,76,Middle-income Countries,Y
+Bolivia (Plurinational State of),68,Middle-income Countries,N
+Brazil,76,Middle-income Countries,N
 Chile,152,Middle-income Countries,N
-Colombia,170,Middle-income Countries,Y
-Ecuador,218,Middle-income Countries,Y
+Colombia,170,Middle-income Countries,N
+Ecuador,218,Middle-income Countries,N
 Falkland Islands (Malvinas),238,Middle-income Countries,N
 French Guiana,254,Middle-income Countries,N
-Guyana,328,Middle-income Countries,Y
-Paraguay,600,Middle-income Countries,Y
-Peru,604,Middle-income Countries,Y
-Suriname,740,Middle-income Countries,Y
+Guyana,328,Middle-income Countries,N
+Paraguay,600,Middle-income Countries,N
+Peru,604,Middle-income Countries,N
+Suriname,740,Middle-income Countries,N
 Uruguay,858,Middle-income Countries,N
-Venezuela (Bolivarian Republic of),862,Middle-income Countries,Y
+Venezuela (Bolivarian Republic of),862,Middle-income Countries,N
 Australia,36,Middle-income Countries,N
 New Zealand,554,Middle-income Countries,N
-Fiji,242,Middle-income Countries,Y
+Fiji,242,Middle-income Countries,N
 New Caledonia,540,Middle-income Countries,N
-Papua New Guinea,598,Middle-income Countries,Y
-Solomon Islands,90,Middle-income Countries,Y
-Vanuatu,548,Middle-income Countries,Y
+Papua New Guinea,598,Middle-income Countries,N
+Solomon Islands,90,Middle-income Countries,N
+Vanuatu,548,Middle-income Countries,N
 Guam,316,Middle-income Countries,N
-Kiribati,296,Middle-income Countries,Y
-Marshall Islands,584,Middle-income Countries,Y
-Micronesia (Fed. States of),583,Middle-income Countries,Y
-Nauru,520,Middle-income Countries,Y
+Kiribati,296,Middle-income Countries,N
+Marshall Islands,584,Middle-income Countries,N
+Micronesia (Fed. States of),583,Middle-income Countries,N
+Nauru,520,Middle-income Countries,N
 Northern Mariana Islands,580,Middle-income Countries,N
 Palau,585,Middle-income Countries,N
-American Samoa,16,Middle-income Countries,Y
+American Samoa,16,Middle-income Countries,N
 Cook Islands,184,Middle-income Countries,N
 French Polynesia,258,Middle-income Countries,N
 Niue,570,Middle-income Countries,N
-Samoa,882,Middle-income Countries,Y
+Samoa,882,Middle-income Countries,N
 Tokelau,772,Middle-income Countries,N
-Tonga,776,Middle-income Countries,Y
-Tuvalu,798,Middle-income Countries,Y
+Tonga,776,Middle-income Countries,N
+Tuvalu,798,Middle-income Countries,N
 Wallis and Futuna Islands,876,Middle-income Countries,N
-Belarus,112,Middle-income Countries,Y
-Bulgaria,100,Middle-income Countries,Y
+Belarus,112,Middle-income Countries,N
+Bulgaria,100,Middle-income Countries,N
 Czechia,203,Middle-income Countries,N
 Hungary,348,Middle-income Countries,N
 Poland,616,Middle-income Countries,N
-Republic of Moldova,498,Middle-income Countries,Y
-Romania,642,Middle-income Countries,Y
-Russian Federation,643,Middle-income Countries,Y
+Republic of Moldova,498,Middle-income Countries,N
+Romania,642,Middle-income Countries,N
+Russian Federation,643,Middle-income Countries,N
 Slovakia,703,Middle-income Countries,N
-Ukraine,804,Middle-income Countries,Y
+Ukraine,804,Middle-income Countries,N
 Channel Islands,830,Middle-income Countries,N
 Denmark,208,Middle-income Countries,N
 Estonia,233,Middle-income Countries,N
@@ -1129,20 +1129,20 @@ Lithuania,440,Middle-income Countries,N
 Norway,578,Middle-income Countries,N
 Sweden,752,Middle-income Countries,N
 United Kingdom,826,Middle-income Countries,N
-Albania,8,Middle-income Countries,Y
+Albania,8,Middle-income Countries,N
 Andorra,20,Middle-income Countries,N
-Bosnia and Herzegovina,70,Middle-income Countries,Y
+Bosnia and Herzegovina,70,Middle-income Countries,N
 Croatia,191,Middle-income Countries,N
 Gibraltar,292,Middle-income Countries,N
 Greece,300,Middle-income Countries,N
 Holy See,336,Middle-income Countries,N
 Italy,380,Middle-income Countries,N
 Malta,470,Middle-income Countries,N
-Montenegro,499,Middle-income Countries,Y
-North Macedonia,807,Middle-income Countries,Y
+Montenegro,499,Middle-income Countries,N
+North Macedonia,807,Middle-income Countries,N
 Portugal,620,Middle-income Countries,N
 San Marino,674,Middle-income Countries,N
-Serbia,688,Middle-income Countries,Y
+Serbia,688,Middle-income Countries,N
 Slovenia,705,Middle-income Countries,N
 Spain,724,Middle-income Countries,N
 Austria,40,Middle-income Countries,N

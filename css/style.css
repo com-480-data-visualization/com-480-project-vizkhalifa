@@ -1,0 +1,270 @@
+/* define some recurrent colors */
+:root {
+    --hover-select-color: #393a1e96;
+}
+
+/* define style of ids */
+
+/* #world-map is the id of a div */
+#world-map {
+    /* background: #8a8a8a; */
+    position: relative;
+    z-index: 0;
+    /* background: white; */
+}
+
+/* define style of classes */
+.world-map_svg {
+    /* background: red; */
+    /* background: black; */
+    background: #62626b;
+    /* background: #8a8a8a; */
+    /* position: relative; */
+    /* z-index: 0; */
+    /* background: white; */
+}
+
+.route {
+	fill: none;
+	stroke: #333;
+	stroke-width: 0.75px;
+    pointer-events: none;
+}
+
+.country {
+    /* stroke: white; */
+	stroke: black;
+    stroke-opacity: 0.25;
+    stroke-width: 1.0;
+    /* stroke-width: 1.0; */
+}
+
+.hovered {
+    fill: var(--hover-select-color);
+    /* fill: #393a1e96; */
+    /* fill: white; */
+    /* opacity: 0.5; */
+}
+
+.selected {
+    fill: var(--hover-select-color);
+    opacity: 0.5;
+    /* fill: #393a1e96; */
+}
+
+.selected-country-circle {
+    fill: red;
+    /* fill: blue; */
+    pointer-events: none;
+}
+
+.inflow-country {
+    fill: green;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.outflow-country {
+    fill: orange;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.arc {
+    fill: green;
+    fill-opacity: 0.4;
+}
+
+.arc_in {
+    fill: green;
+    fill-opacity: 0.4;
+    pointer-events: none;
+}
+
+.arc_out {
+    fill: orange;
+    fill-opacity: 0.4;
+    pointer-events: none;
+}
+
+.arc_hovered {
+    fill: #626d62;
+    fill-opacity: 0.4;
+    pointer-events: none;
+}
+
+.row.row-no-margin {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.col-no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Slider */
+
+line.track {
+    stroke-opacity: 0.4;
+    stroke: #d3d3d3;
+    stroke: #000;
+    stroke-width: 10px;
+}
+
+/* track-inset is a bar that's inside the main "track" to make it look like a rect with a border */
+line.track-inset {
+    stroke: #d3d3d3;
+    stroke-width: 8px;
+}
+
+/* track-overlay is the bar on top of above tracks with stroke = transparent and on which the drag behaviour is actually called */
+line.track-overlay {
+    stroke: #ccc;
+    stroke-width: 35px;
+    stroke-opacity: 0;
+	/* choose cursor style: */
+    cursor: col-resize;
+    /* cursor: ew-resize; */
+    /* cursor: crosshair; */
+}
+
+.handle {
+    fill: #ff5800d9;
+    stroke: #ff5800d9;
+}
+
+line.track-overlay, line.track, line.track-inset {
+    stroke-linecap: round;
+}
+
+line.disabled {
+  stroke: grey;
+  stroke-width: 8px;
+}
+
+.disabled{
+  fill: grey;
+  stroke: #000;
+}
+
+.ticks_worldmap {
+    font-family: 'Lora', serif;
+	font-size: 80%;
+}
+
+.ticks_stock {
+    font-family: 'Lora', serif;
+	font-size: 100%;
+}
+
+/* sankey */
+body {
+    font-family: 'Lora', serif;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+
+/* Tooltip CSS */
+.tooltip-sankey {
+    top: 100px;
+    left: 100px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    /*border: 2px solid #000;*/
+    background: #333;
+    opacity: .9;
+    color: white;
+    padding: 10px;
+    /* min-width: 375px; */
+    /* min-width: 36.75vmin; */
+    /* font-size: 20%; */
+    /* font-size: 80%; */
+    font-size: 100%;
+    /* font-size: 2.25vmin; */
+    line-height: 24pt;
+    font-weight: lighter;
+    visibility: visible;
+
+}
+
+.tooltip-sankey.bottom::before{
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+
+    opacity: .9;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid #333;
+    border-left:8px solid transparent;
+
+    bottom:35px; /* arbitrarily set */
+}
+.tooltip-sankey.left::before{
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+
+    opacity: .9;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid #333;
+    border-right:8px solid transparent;
+    bottom:35px; /* arbitrarily set */
+}
+
+/* Bar Chart */
+.chart {
+  /* background: #8a8a8a; */
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.chart .female {
+  stroke: white;
+  fill: indianred;
+}
+
+.chart .male {
+  stroke: white;
+  fill: steelblue;
+}
+
+.chart rect:hover {
+  fill: #64707d;
+}
+
+.chart text {
+  fill: white;
+}
+
+.chart text.name {
+  fill: black;
+}
+
+/* Sankey CSS */
+.node rect {
+    /*cursor: pointer;*/
+    fill-opacity: .9;
+    shape-rendering: crispEdges;
+}
+
+.node text {
+    pointer-events: none;
+    /*text-shadow: 0 1px 0 #fff;*/
+}
+
+.link {
+    fill: none;
+    stroke: #000;
+    stroke-opacity: 0.2;
+}
+
+.link:hover {
+    stroke-opacity: 0.7;
+}

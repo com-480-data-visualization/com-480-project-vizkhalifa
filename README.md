@@ -117,4 +117,6 @@ Our pdf report can be found [here](milestone2_report.pdf).
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
+Our process book can be found [here](https://drive.google.com/file/d/1SxNJXTh-2d8BpbmNDVEHkXAJOZeB8yWp/view?usp=sharing).
+
 **80% of the final grade**

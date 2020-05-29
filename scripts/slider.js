@@ -60,11 +60,9 @@ class Slider {
 
 		if (element_id == 'world_map_slider') {
 			ticks_class = 'ticks_worldmap';
-			console.log('reached ticks_worldmap');
 		}
 		else {
 			ticks_class = 'ticks_stock';
-			console.log('reached ticks_stock');
 		}
 
 		const ticks = this.slider.append('g').attr('class', ticks_class).attr('transform', 'translate(0, 4)')

@@ -25,8 +25,6 @@ class WorldMapPlot {
         this.dev_levels = Array.from([...new Set(this.dev_level_info.map(x => x.DevelopmentLevel))]);
         this.income_levels = Array.from([...new Set(this.income_level_info.map(x => x.DevelopmentLevel))]);
         this.income_level_color_scale = d3version4.scaleSequential(d3version4.interpolateGnBu);
-        console.log(this.dev_levels);
-        console.log(this.income_levels);
         // set svg's height and with
         this.SVG_HEIGHT = 400;
         this.SVG_WIDTH = 800;
@@ -592,9 +590,9 @@ function onCountryHover(world_map_object) {
                 if (country_found != null && country_found != undefined) {
                     population = parseInt(country_found.pop);
                 }
-                showWorldMapDetail(e, world_map_object.hovered_country, total_flows, population);
+                showWorldMapDetail(e, world_map_object.hovered_country, total_flows, population, world_map_object.selected_year0, world_map_object.selected_gender);
             } else {
-                showWorldMapDetail(e, world_map_object.hovered_country, null, null);
+                showWorldMapDetail(e, world_map_object.hovered_country, null, null, null, null);
             }
         }
     });
@@ -605,20 +603,23 @@ function onCountryHover(world_map_object) {
     });
 }
 
-function showWorldMapDetail(e, hovered_country, total_flows, country_population) {
+function showWorldMapDetail(e, hovered_country, total_flows, country_population, year, gender) {
     let content = "";
     if (!hovered_country) {
         // No prior count data
-        content = "<b>" + "No Country Data" + "</b><br/>";
+        content = "<b>" + "No Country Data, " + year + "</b><br/>";
     } else {
         if (country_population == 0 || country_population == null || total_flows == null) {
             content += "<b>" + hovered_country.country.name + "</b><br/>";
         } else {
+            let gender_str = "Total";
+            if (gender == 'm') gender_str = "Male";
+            else if (gender == 'f') gender_str = "Female";
             // Display change w.r.t. previous and current count data, current data, current ratio
-            content += "<h4>" + hovered_country.country.name + "</h4>";
+            content += "<h4>" + hovered_country.country.name + ", " + year + "</h4>";
             content += "<b>Population: " + d3.format(",")(country_population) + "</b><br/>";
-            content += "<b>" + "Total Inflow: " + d3.format(",")(total_flows[0]) + " (" + d3.format(".2%")(total_flows[0] / country_population) + " of total population)" + "</b><br/>";
-            content += "<b>" + "Total Outflow: " + d3.format(",")(total_flows[1]) + " (" + d3.format(".2%")(total_flows[1] / country_population) + " of total population)" + "</b><br/>";
+            content += "<b>" + gender_str + " Inflow: " + d3.format(",")(total_flows[0]) + " (" + d3.format(".2%")(total_flows[0] / country_population) + " of total population)" + "</b><br/>";
+            content += "<b>" + gender_str + " Outflow: " + d3.format(",")(total_flows[1]) + " (" + d3.format(".2%")(total_flows[1] / country_population) + " of total population)" + "</b><br/>";
             // "Thin" version:
             // content += "<h4>" + hovered_country.country.name + "</h4>";
             // content += "<b>Population:</b><br/>" + d3.format(",")(country_population) + "<br/>";

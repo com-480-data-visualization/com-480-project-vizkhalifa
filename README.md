@@ -121,6 +121,6 @@ Our process book can be found [here](ProcessBook.pdf).
 
 Our final website [here](https://com-480-data-visualization.github.io/com-480-project-vizkhalifa/).
 
-Our screencast [here](...)
+Our screencast [here](https://youtu.be/V6MHrIab9Cs).
 
 **80% of the final grade**

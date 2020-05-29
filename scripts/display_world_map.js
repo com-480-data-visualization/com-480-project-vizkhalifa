@@ -140,7 +140,7 @@ class WorldMapPlot {
                     }
                 })
                 .attr("class", "route")
-                .attr("stroke-opacity", (Math.sqrt(d.flow / self.highest_flow)))
+                .attr("stroke-opacity", (Math.sqrt(d.flow / (self.highest_flow * self.pop_factor ))))
                 .attr("stroke-width", 1);
 
             let totalLength = routePath.node().getTotalLength() + 10;
@@ -573,9 +573,9 @@ class WorldMapPlot {
 
         // get country population
         const selected_country_population = self.getCountryPopulation(self.selected_country);
-        const pop_factor = self.normalized_bool ? selected_country_population : 1;
-        this.highest_flow = this.highest_flow / pop_factor;
-        this.lowest_flow = this.lowest_flow / pop_factor;
+        this.pop_factor = self.normalized_bool ? selected_country_population : 1;
+        this.highest_flow = this.highest_flow / this.pop_factor;
+        this.lowest_flow = this.lowest_flow / this.pop_factor;
     }
 
 } // end of class WorldMapPlot

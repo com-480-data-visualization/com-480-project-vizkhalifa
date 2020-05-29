@@ -25,7 +25,8 @@ class WorldMapPlot {
         this.dev_levels = Array.from([...new Set(this.dev_level_info.map(x => x.DevelopmentLevel))]);
         this.income_levels = Array.from([...new Set(this.income_level_info.map(x => x.DevelopmentLevel))]);
         this.income_level_color_scale = d3version4.scaleSequential(d3version4.interpolateGnBu);
-
+        console.log(this.dev_levels);
+        console.log(this.income_levels);
         // set svg's height and with
         this.SVG_HEIGHT = 400;
         this.SVG_WIDTH = 800;
@@ -302,6 +303,7 @@ class WorldMapPlot {
             .attr("transform", "translate(" + 0 + ', ' + 0 + ")")
             .call(colorbar_axis);
 
+
         // Create the gradient
         function range01(steps) {
             return Array.from(Array(steps), (elem, index) => index / (steps - 1));
@@ -341,17 +343,16 @@ class WorldMapPlot {
             .style("fill", "url(#gradient)")
             .attr("transform", "translate(0,10)");
 
-        if (this.highest_flow > 0) {
-            this.drawColorBarTicks();
-        }
+        this.drawColorBarTicks();
     }
 
     drawColorBarTicks() {
         d3.selectAll(".color_bar_y_axis").remove();
-        if (this.selected_map_type.localeCompare(map_types[0]) == 0) {
+        if (this.selected_map_type.localeCompare(map_types[0]) == 0 && this.highest_flow > 0) {
             var y = d3version4.scaleLinear()
                 .range([this.colorbar_size[0], 0])
-                .domain([this.highest_flow, this.lowest_flow]);
+                .domain([this.highest_flow, this.lowest_flow])
+                .nice();
 
             var yAxis = d3version4.axisBottom()
                 .scale(y)
@@ -367,6 +368,37 @@ class WorldMapPlot {
                 .attr("dy", ".71em")
                 .style("text-anchor", "end")
                 .text("axis title");
+        } else {
+            let startText = null;
+            let endText = null;
+            if (this.selected_map_type.localeCompare(map_types[1]) == 0) {
+                // dev levels
+                startText = this.dev_levels[this.dev_levels.length - 1];
+                endText = this.dev_levels[0];
+            } else if (this.selected_map_type.localeCompare(map_types[2]) == 0) {
+              startText = "NA / " + this.income_levels[this.income_levels.length - 2];
+                endText = this.income_levels[0];
+            }
+            this.color_bar_svg.append("g")
+                .append("text")
+                .text(startText)
+                .attr("x", 5)
+                .attr("y", 15)
+                .attr("font-family", "sans-serif")
+                .attr("text-anchor", "start")
+                .attr("font-size", "11px")
+                .classed(".color_bar_y_axis", true)
+                .attr("fill", "black");
+
+            this.color_bar_svg.append("text")
+                .text(endText)
+                .attr("x", this.colorbar_size[0] - 5)
+                .attr("y", 15)
+                .attr("font-family", "sans-serif")
+                .attr("text-anchor", "end")
+                .attr("font-size", "11px")
+                .classed(".color_bar_y_axis", true)
+                .attr("fill", "black");
         }
     }
 
@@ -408,7 +440,7 @@ class WorldMapPlot {
         const self = this;
         // get color scale corresponding to in/out flow
         let linearScale = d3version4.scaleLinear()
-            .domain([0, self.dev_levels.length])
+            .domain([self.dev_levels.length, 0])
             .range(development_levels_color_scheme);
 
         self.map.append("g").selectAll(".country")
@@ -440,7 +472,10 @@ class WorldMapPlot {
         // display countries and define hovering/selecting behavior
         self = this;
         // get color scale corresponding to in/out flow
-        let color_scale = d3version4.scaleQuantize().range(income_levels_color_scheme).domain([0, self.income_levels.length]);
+        let color_scale = d3version4.scaleLinear()
+            .domain([self.income_levels.length, 0])
+            .range(income_levels_color_scheme);
+
 
         self.map.append("g").selectAll(".country")
             .data(self.countries)

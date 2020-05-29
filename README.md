@@ -119,6 +119,8 @@ Our pdf report can be found [here](milestone2_report.pdf).
 
 Our process book can be found [here](ProcessBook.pdf).
 
-Our final website [here](https://com-480-data-visualization.github.io/com-480-project-vizkhalifa/)
+Our final website [here](https://com-480-data-visualization.github.io/com-480-project-vizkhalifa/).
+
+Our screencast [here](...)
 
 **80% of the final grade**

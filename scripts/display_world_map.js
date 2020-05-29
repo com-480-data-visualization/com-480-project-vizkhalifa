@@ -373,11 +373,11 @@ class WorldMapPlot {
             let endText = null;
             if (this.selected_map_type.localeCompare(map_types[1]) == 0) {
                 // dev levels
-                startText = this.dev_levels[this.dev_levels.length - 1];
-                endText = this.dev_levels[0];
+                startText = "Less Developed";
+                endText = "More Developed";
             } else if (this.selected_map_type.localeCompare(map_types[2]) == 0) {
-              startText = "NA / " + this.income_levels[this.income_levels.length - 2];
-                endText = this.income_levels[0];
+              startText = "NA / Lower Income";
+                endText = "Higher Income";
             }
             this.color_bar_svg.append("g")
                 .append("text")
